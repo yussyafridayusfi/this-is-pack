@@ -3,11 +3,21 @@
     "displayName": "this_is",
     "description": "just a random pack",
     "version": "0.0.1",
+    "publisher": "HookyQR",
+    "homepage": "https://github.com/HookyQR/VSCodeBeautify",
+    "repository": {
+            "type": "git",
+            "url": "https://github.com/yussyafridayusfi/this-is-pack"
+    },
     "engines": {
         "vscode": "^1.67.0"
     },
     "categories": [
         "Extension Packs"
+    ],
+    "keywords": [
+        "beautify",
+        "beautifiern"
     ],
     "extensionPack": [ 
         "HookyQR.beautify"
