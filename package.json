@@ -1,0 +1,15 @@
+{
+    "name": "this-is-pack",
+    "displayName": "this_is",
+    "description": "just a random pack",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "HookyQR.beautify"
+    ]
+}
